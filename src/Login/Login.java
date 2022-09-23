@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMain.java to edit this template
  */
-package creatingaform;
+package Login;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -26,7 +26,7 @@ import javafx.stage.Stage;
  *
  * @author usu2dam
  */
-public class CreatingAForm extends Application {
+public class Login extends Application {
     
     @Override
     public void start(Stage primaryStage)
